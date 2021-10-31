@@ -1,6 +1,6 @@
-MY_TOKEN = r'2020568819:AAF5WXNnxCZSzHRaWCva6XmWAbyNDlaQXR8'
+MY_TOKEN = 'Токен телеграм бота'
 
-access_key2 = 'ddaa43da6f9fe168dcf2'
+access_key2 = 'https://www.currencyconverterapi.com/ токен'
 
 keys = {
     'доллар': 'USD',
